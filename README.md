@@ -6,7 +6,7 @@
 
 -  **Pursuing B.Tech in Computer Technology**   
 -  Currently **learning Data Structures & Algorithms in C++**  
--  Looking Forward For**Problem-Solving & Web Development**  
+-  Looking Forward For **Problem-Solving & Web Development**  
 - Exploring **Open Source Contributions** and **Project Development**  
 
 
